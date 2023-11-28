@@ -13,7 +13,7 @@ note: Jika anda menggunakan Visual Studi Code, masukkan kode berikut ke dalam te
 ```sh
 npm install
 npm run dev
-
+```
 
 ## Contoh Penggunaan Program
 
